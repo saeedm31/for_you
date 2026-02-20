@@ -1,7 +1,7 @@
 
 /*
-    heart.c
-    Compile with love.
+    coffee_code.c
+    Compile with coffee.
 */
 
 #include <stdio.h>
